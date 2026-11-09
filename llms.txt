@@ -1,0 +1,16 @@
+# Christinas Bøllespirer
+
+> Privat pasningsordning i Aabenraa for børn i alderen 0-3 år, med leg, nærvær og natur i trygge, hjemlige rammer.
+
+## Kontakt
+- Telefon: 93 95 61 72
+- E-mail: christinasboellespirer@gmail.com
+- Adresse: Stollig Bygade 1, 6200 Aabenraa
+- Åbningstider: mandag til torsdag 06.30 til 16.30, fredag 06.30 til 15.30, lørdag og søndag lukket
+
+## Sider
+- [Forside](https://www.christinasboellespirer.dk/): Om pasningsordningen, hverdagen, huset, haven, ture, galleri, pris og kontakt
+
+## Valgfrit
+- [Hele sidens tekst](https://www.christinasboellespirer.dk/llms-full.txt)
+- [Sitemap](https://www.christinasboellespirer.dk/sitemap.xml)
